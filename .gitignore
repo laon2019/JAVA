@@ -13,6 +13,10 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+.classpath
+.project
+module-info.java
+eclipse/
 
 # External tool builders
 .externalToolBuilders/
